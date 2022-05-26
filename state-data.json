@@ -1,0 +1,150 @@
+{
+    "state1":{
+        "name":"Uttar Pradesh",
+        "capital":"lucknow"
+    },
+    "state2":{
+        "name":"Bihar",
+        "capital":"Patna"
+    },
+    "state3":{
+        "name":"Andhra Pradesh",
+        "capital":"Amaravati"
+    },
+    "state4":{
+        "name":"Arunachal Pradesh",
+        "capital":"Itanagar"
+    },
+    "state5":{
+        "name":"Assam",
+        "capital":"Dispur"
+    },
+    "state6":{
+        "name":"Chhattisgarh",
+        "capital":"Raipur"
+    },
+    "state7":{
+        "name":"Goa",
+        "capital":"Panaji"
+    },
+    "state8":{
+        "name":"Gujarat",
+        "capital":"Gandhinagar"
+    },
+    "state9":{
+        "name":"Haryana",
+        "capital":"Chandigarh"
+    },
+    "state10":{
+        "name":"Jharkhand",
+        "capital":"Ranchi"
+    },
+    "state11":{
+        "name":"Karnataka",
+        "capital":"Bengaluru"
+    },
+    "state12":{
+        "name":"Kerala",
+        "capital":"Thiruvananthapuram"
+    },
+    "state13":{
+        "name":"Madhya Pradesh",
+        "capital":"Bhopal"
+    },
+    "state14":{
+        "name":"Maharashtra",
+        "capital":"Mumbai"
+    },
+    "state15":{
+        "name":"Manipur",
+        "capital":"Imphal"
+    },
+    "state16":{
+        "name":"Meghalaya",
+        "capital":"Shillong"
+    },
+    "state17":{
+        "name":"Mizoram",
+        "capital":"Aizawl"
+    },
+    "state18":{
+        "name":"Nagaland",
+        "capital":"Kohima"
+    },
+    "state19":{
+        "name":"Odisha",
+        "capital":"Bhubaneswar"
+    },
+    "state20":{
+        "name":"Punjab",
+        "capital":"chandigarh"
+    },
+    "state21":{
+        "name":"Rajasthan",
+        "capital":"Jaipur"
+    },
+    "state22":{
+        "name":"Sikkim",
+        "capital":"Gangtok"
+    },
+    "state23":{
+        "name":"Tamil Nadu",
+        "capital":"Chennai"
+    },
+    "state24":{
+        "name":"Telangana",
+        "capital":"Hyderabad"
+    },
+    "state25":{
+        "name":"Tripura",
+        "capital":"Agartala"
+    },
+    "state26":{
+        "name":"Uttarakhand",
+        "capital":"Dehradun"
+    },
+    "state27":{
+        "name":"West Bengal",
+        "capital":"Kolkata"
+    },
+    "state28":{
+        "name":"Himachal Pradesh",
+        "capital":"Shimla"
+    },
+    "UT1":{
+        "name":"Andaman and Nicobar Islands",
+        "capital":"Port Blair"
+    },
+    "UT2":{
+        "name":"Chandigarh",
+        "capital":"Chandigarh"
+    },
+    "UT3":{
+        "name":"Dadra and Nagar Haveli",
+        "capital":"Silvassa"
+    },
+    "UT4":{
+        "name":"Daman and Diu",
+        "capital":"Daman"
+    },
+    "UT5":{
+        "name":"Delhi",
+        "capital":"Delhi"
+    },
+    "UT6":{
+        "name":"Jammu and Kashmir",
+        "capital":"Srinagar"
+    },
+    "UT7":{
+        "name":"Lakshadweep",
+        "capital":"Kavaratti"
+    },
+    "UT8":{
+        "name":"Ladakh",
+        "capital":"Leh"
+    },
+    "UT9":{
+        "name":"Pondicherry",
+        "capital":"Pondicherry"
+    }
+}
